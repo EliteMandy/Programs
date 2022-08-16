@@ -1,0 +1,152 @@
+#qw {
+  font-size: small;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+body {
+  background-color: #ece5f0ff;
+}
+#di1 {
+  background-color: #39a0edff;
+  height: 65px;
+}
+/* --xiketic: #1c0b19ff;
+--celeste: #9bf3f0ff;
+--carolina-blue: #39a0edff;
+--magnolia: #ece5f0ff;
+#3b28ccff;
+--oxford-blue: #031d44ff; */
+#di2 {
+  background-color: #39a0edff;
+  height: 130px;
+}
+#di3 {
+  background-color: #ece5f0ff;
+  height: 50px;
+}
+
+#di5 {
+  background-color: #004147;
+  height: 150px;
+}
+#mam{
+  border-radius: 10px;
+
+}
+#mam:hover {
+  background-color: #fff;
+  transform :scale(1.2);
+  box-shadow: 5px 2px;
+
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  align-items: center;
+ 
+}
+#div4 {
+  height: 400px;
+}
+#d41 {
+  background-color: #031d44ff;
+  text-align: center;
+  height: 350px;
+  width: 30%;
+  margin-left: 5%;
+  color: #fff;
+  
+
+}
+#d42 {
+  background-color: #031d44ff;
+  text-align: center;
+  height: 350px;
+  width: 30%;
+  color: #fff;
+}
+
+#d43 {
+  background-color: #031d44ff;
+  text-align: center;
+  height: 350px;
+  width: 30%;
+  color: #fff;
+}
+#d4 {
+  height: 70px;
+}
+#di6 {
+  color: white;
+  background-color: #ece5f0ff;
+  height: 150px;
+}
+#di0 {
+  height: 350px;
+  border-radius: 7px;
+}
+
+#ma {
+  width: 30%;
+  height: 50%;
+}
+#i1 {
+  height: 500px;
+  width: 100%;
+}
+.flex-container2 {
+  display: flex;
+  padding-left: 10%;
+  justify-content: flex-start;
+  align-items: center;
+}
+.flex-container2 > button {
+  display: flex;
+  background-color: orange;
+  height: 60%;
+}
+
+.flex-container5{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.flex-container3{
+    display: flex;
+    align-items: center;
+
+}
+#sh{
+    width: 100%;
+}
+#regi1 {
+  margin: top 5px;
+}
+#butt1 {
+  border-radius:9px;
+  background-color:#39a0edff;
+  border:transparent;
+}
+#butt1:hover{
+    background-color: rgb(245, 240, 240);
+    transform: scale(1.2);
+}
+#butt2{
+  border:transparent;
+  background-color:#39a0edff;
+  border-radius:px
+}
+#butt2:hover{
+  background-color:#39a0edff;
+  transform:scale(1.2);
+}
+#mam{
+    background-color: #39a0edff;
+    border:transparent;
+}

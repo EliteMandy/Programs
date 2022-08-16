@@ -1,0 +1,53 @@
+body{
+    background-image: url(/OIP.jpg);
+    background-repeat: no-repeat;
+    background-size:100% ;
+}
+h1{
+  color: rgb(250, 241, 241);
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #010101;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+  .flex-container00{
+      margin-top:70px;
+      background-color:rgb(162, 228, 38);
+      color: rgb(80, 168, 105);
+      border-radius: 3px;
+  }
+  .flex-container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .animated-background{
+    background: linear-gradient(
+        to right, #833ab4,
+        #0111f6, rgb(241, 28, 28)
+    );
+    background-size: 400% 400%;
+    animation: animate-background 10s infinite ease-in-out;
+}
+@keyframes animate-background{
+    0%{
+        background-position: 0 50%;
+    }
+    50%{
+        background-position: 100% 50%
+    }
+    100%{
+        background-position:05 50%
+    }
+}

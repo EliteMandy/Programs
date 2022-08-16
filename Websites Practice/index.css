@@ -1,0 +1,67 @@
+/*h1{
+    background-color: brown;
+    border-radius: 4px;
+    text-align: center;
+}
+#nami{
+    background-color: rgb(163, 243, 16);
+}
+#priya{
+    background-color:rgb(179, 148, 91);
+}
+body{
+    background-color:grey;
+}
+#a{
+    background-color:rebeccapurple
+}
+h2{
+    color: white;
+    background-color:grey;
+    text-align: center;
+    border-radius: px;
+    border-block-end-color: red;
+}
+div{
+    background-color:lightgreen;
+}
+span{
+    background-color:red;
+}
+*/
+h1 {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 91px;
+    margin-left: 100px;
+    background-color: lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+  }
+  select {
+      background-color:red;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-decoration:transparent;
+  }
+  label {
+      background-color: gold;
+  }
+  input {
+      border: 1px solid black;
+      background-color: lightblue;
+      text-align: center;
+      font-family: 'Courier New', Courier, monospace;
+      border-radius: 5px;
+  }
+  table {
+    background-color: lightgreen;
+    text-align: center;
+    border-radius:5px;
+    border: 2px solid blue
+  }
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }

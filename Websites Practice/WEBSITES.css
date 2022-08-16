@@ -1,0 +1,134 @@
+/* #pk{
+    width: 100%;
+    height: 100%;
+    display:block;
+    
+    background-repeat: no-repeat;
+    background-image: url("https://th.bing.com/th/id/OIP.mgsYK6sN9fLz7VlFTV-6qgHaHa?pid=ImgDet&rs=1");
+
+}
+option{
+    background-color: aqua;
+}
+#pop{
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font: size 19px;
+} */
+/* img{
+    width: 200px;
+    height: 200px;
+}
+body{
+    background-image: url("");
+    background-repeat:no-repeat;
+    color: aquamarine;
+    background-color: rgb(243, 237, 237);
+}
+h1{
+    font-family: monospace;
+}
+#z{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    background-color: aqua;
+    border-radius: 5px;
+    margin-right: 235px;
+}
+}
+#int{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    border-radius: 5px;
+    margin-right: 235px;
+}
+#z{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    border-radius: 5px;
+    margin-right: 500px
+}
+#zz{
+    font-family:fantasy;
+    font-size: large;
+
+}
+#manu{
+    font-family:fantasy;
+    font-size: large;
+}
+#qw{
+    text-align: right;
+    text-align: ;
+}
+select:hover{
+    background-color:brown;
+    
+}
+img:hover{
+    background-color:yellow;
+
+}
+button:hover{
+    background-color:yellow;
+}
+#aa{
+    text-align: right;
+}
+#demo{
+    text-align: right
+} */
+*{
+    margin: 0;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: space-around;
+    background-color:deepskyblue;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius:5px;
+
+}
+.animated-background{
+    background: linear-gradient(
+        to right, rgb(246, 41, 41), rgb(7, 61, 239), rgb(231, 12, 195) ,rgb(255, 242, 0));
+        background-size: 400% 400%;
+        animation:animate-background 10s infinite ease-in-out;
+}
+@keyframes animate-background{
+    0%{
+        background-position:0% 50% ;
+    }
+    50%{
+        background-position:50% 100%;
+    }
+    100%{
+        background-position:0% 50%;
+    }
+}
+#d2{
+    height:4000px;
+    
+}
+#a1{
+    background-color: rgb(89, 50, 205);
+    text-align:center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:xx-large;
+}
+#a2{
+    background-color: burlywood;
+    background-image: url(/Itachi.jpg);
+    text-align:center;
+    width:100px;
+    height:100px;
+    border-radius: 5px;
+    margin-top:5px;
+    margin-bottom: 5px;
+    background-size: 200px;
+    background-position-x: -50px;
+    background-repeat:no-repeat;
+}
